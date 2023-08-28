@@ -2,9 +2,11 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+tags:
+  - about
+categories:
+- AboutMe
 ---
-
-# **About Me**
 
 ## **Welcome to My Blog!**
 
