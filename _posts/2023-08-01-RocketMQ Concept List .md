@@ -1,5 +1,5 @@
 ---
-title: RocketMQ交流
+title: RocketMQ Concept List
 tags:
   - RocketMQ
   - MQ
@@ -7,15 +7,15 @@ categories:
 - Midware
 ---
 
-RocketMQ交流
+RocketMQ
 
-# 1.核心概念
+# 1.Core Concept
 
 - NameServer
 - Broker
-- 主题
-- 消费组
-- 消费者
+- Topic
+- Consumer Group
+- Consumer
 - 队列负载算法
 - 队列重平衡机制
 - 并发消费
