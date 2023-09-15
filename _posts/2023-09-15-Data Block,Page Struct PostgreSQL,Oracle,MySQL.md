@@ -15,7 +15,7 @@ categories:
 
 ****Database Page Layout****
 
-[![](images/postgresql_data_page.png)](https://meetingfuture.github.io/posts/)
+![postgresql_data_page](/assets/images/2023-09-15/postgresql_data_page.png)
 
 
 
@@ -36,15 +36,15 @@ categories:
 
 data block format
 
-[![](images/oracle_data_block.png)](https://meetingfuture.github.io/posts/)
+![oracle_data_block](/assets/images/2023-09-15/oracle_data_block.png)
 
 row format
 
-[![](images/oracle_row_format.png)](https://meetingfuture.github.io/posts/)
+![oracle_row_format](/assets/images/2023-09-15/oracle_row_format.png)
 
 # MySQL InnoDB
 
-[![](images/mysql_innodb_index.png)](https://meetingfuture.github.io/posts/)
+![mysql_innodb_index](/assets/images/2023-09-15/mysql_innodb_index.png)
 
 Reference
 
