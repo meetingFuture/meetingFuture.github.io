@@ -12,7 +12,7 @@ Summary
 
 1.Oraclelike management style，a app service own it’s user/schema/database/tablespace/priveliges.
 
-2.Not object in public schema or pg_default tablespace.
+2.No object in public schema or pg_default tablespace.
 
 3.Minimized permission configuration.
 
