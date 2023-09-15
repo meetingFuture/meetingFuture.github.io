@@ -1,3 +1,16 @@
+---
+title: Data Block,Page Struct PostgreSQL,Oracle,MySQL
+tags:
+  - Oracle
+  - PostgreSQL
+  - MySQL
+  - Page
+  - Block
+categories:
+  - Database
+  - PostgreSQL
+---
+
 # PostgreSQL
 
 ****Database Page Layout****
