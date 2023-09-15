@@ -8,7 +8,7 @@ categories:
   - Database
   - PostgreSQL
 ---
-Summary
+# Summary
 
 1.Oraclelike management style，a app service own it’s user/schema/database/tablespace/priveliges.
 
@@ -18,6 +18,7 @@ Summary
 
 This is the Best Practices according my experience.
 
+# Detail
 1.Create User
 
 ```sql
