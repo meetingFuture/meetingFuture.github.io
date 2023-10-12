@@ -1,5 +1,5 @@
 ---
-title: PostgreSQL_psql_Command
+title: PostgreSQL 16 Installation On CentOS7 using source code
 tags:
   - Basic
   - PostgreSQL
